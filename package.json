@@ -1,10 +1,14 @@
 {
   "name": "jaacoder-fnproxy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript library to create proxy for function to be called lately and chainable",
   "main": "jaacoder-fnproxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaacoder/fnproxy.git"
   },
   "author": "",
   "license": "ISC"
