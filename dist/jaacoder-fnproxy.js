@@ -41,9 +41,9 @@
         if (config) {
             Function.prototype._proxyConfig = config
         }
-        
+
         return Function.prototype._proxyConfig
     }
 
 
-})()
+})();
